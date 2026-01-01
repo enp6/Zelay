@@ -14,6 +14,8 @@ Zelay 因此应运而生，只为解决一个核心问题：如何让个人用�
 * **🪶 极致轻量**：单文件部署，资源占用极低，完美兼容各类小型服务器（NAT/VPS）。
 * **🚀 一键部署**：傻瓜式安装流程，无需手动配置环境，即装即用。
 
+![Zelay面板预览](https://raw.githubusercontent.com/enp6/Zelay/main/review.png)
+
 ## 🛠️ 快速安装指南
 
 Zelay 提供了极其简单的一键安装脚本。你只需要一条命令即可完成 Zelay-Manager 面板的部署。
@@ -74,7 +76,3 @@ bash <(curl -fsSL https://raw.githubusercontent.com/enp6/Zelay/main/zelay_manage
 > **#群组**：[https://t.me/zelaygroup](https://t.me/zelaygroup)
 > 
 > **#反馈与支持**：欢迎大家体验并提出宝贵意见！如果你在使用过程中遇到任何 bug 或有功能建议，请随时反馈。
-
-```
-
-```
